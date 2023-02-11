@@ -1,0 +1,41 @@
+{
+  "Employees":[
+  {
+    "Name": "Ansh",
+    "DOB": "26/11/1998",
+    "Height": "5.4",
+    "City": "Hyderabad",
+    "State": "Telangana"
+  },
+  {
+    "Name": "Akanksh",
+    "DOB": "13/05/1996",
+    "Height": "6.0",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Name": "Chinnu",
+    "DOB": "12/01/1994",
+    "Height": "5.4",
+    "City": "Surat",
+    "State": "Gujarat"
+  },
+  {
+    "Name": "Bannu",
+    "DOB": "11/11/1999",
+    "Height": "5.2",
+    "City": "Rajkot",
+    "State": "Gujarat"
+  },
+  {
+    "Name": "Ishithaa",
+    "DOB": "29/02/2020",
+    "Height": "5.6",
+    "City": "Chennai",
+ 
+    "State": "Tamilnadu"
+  }
+
+  ]
+}

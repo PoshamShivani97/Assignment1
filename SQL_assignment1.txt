@@ -1,0 +1,17 @@
+1. SELECT COUNT(*) FROM salespersonWHERE name LIKE 'a%' OR name LIKE 'A%';
+
+
+
+2. SELECT sname FROM salespeople s LEFT JOIN orders o ON s.snum=o.snum WHERE o.amt>2000;
+
+
+
+3. SELECT COUNT(*) FROM salesperson WHERE city = 'New York';
+
+
+
+4. SELECT * FROM SALESPEOPLE WHERE city='London' OR city='Paris';
+
+
+
+5. SELECT o.odate,s.sname FROM orders o LEFT JOIN salespeople s ON o.snum=s.snum;
